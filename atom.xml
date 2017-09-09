@@ -5,9 +5,9 @@
   <subtitle>机会总是留给有准备的人</subtitle>
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://yoursite.com/"/>
+  <link href="http://fuchunming.top/"/>
   <updated>2017-09-09T02:57:43.678Z</updated>
-  <id>http://yoursite.com/</id>
+  <id>http://fuchunming.top/</id>
   
   <author>
     <name>Frank</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>This is my first blog</title>
-    <link href="http://yoursite.com/2017/09/09/This-is-my-first-blog/"/>
-    <id>http://yoursite.com/2017/09/09/This-is-my-first-blog/</id>
+    <link href="http://fuchunming.top/2017/09/09/This-is-my-first-blog/"/>
+    <id>http://fuchunming.top/2017/09/09/This-is-my-first-blog/</id>
     <published>2017-09-09T02:57:13.000Z</published>
     <updated>2017-09-09T02:57:43.678Z</updated>
     
@@ -39,8 +39,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://yoursite.com/2017/09/09/hello-world/"/>
-    <id>http://yoursite.com/2017/09/09/hello-world/</id>
+    <link href="http://fuchunming.top/2017/09/09/hello-world/"/>
+    <id>http://fuchunming.top/2017/09/09/hello-world/</id>
     <published>2017-09-09T02:47:08.996Z</published>
     <updated>2017-09-09T02:47:08.996Z</updated>
     
