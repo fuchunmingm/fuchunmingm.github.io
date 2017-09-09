@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://fuchunming.top/"/>
-  <updated>2017-09-09T07:50:37.174Z</updated>
+  <updated>2017-09-09T13:37:00.382Z</updated>
   <id>http://fuchunming.top/</id>
   
   <author>
@@ -15,6 +15,29 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>基于Hexo Github搭建个人博客教程</title>
+    <link href="http://fuchunming.top/2017/09/09/%E5%9F%BA%E4%BA%8EHexo-Github%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2%E6%95%99%E7%A8%8B/"/>
+    <id>http://fuchunming.top/2017/09/09/基于Hexo-Github搭建个人博客教程/</id>
+    <published>2017-09-09T13:35:51.000Z</published>
+    <updated>2017-09-09T13:37:00.382Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="dajian"><a href="#dajian" class="headerlink" title="dajian"></a>dajian</h2>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h2 id=&quot;dajian&quot;&gt;&lt;a href=&quot;#dajian&quot; class=&quot;headerlink&quot; title=&quot;dajian&quot;&gt;&lt;/a&gt;dajian&lt;/h2&gt;
+      
+    
+    </summary>
+    
+    
+      <category term="Hexo" scheme="http://fuchunming.top/tags/Hexo/"/>
+    
+  </entry>
   
   <entry>
     <title>关于我的博客</title>
@@ -30,50 +53,6 @@
       
       
         &lt;h1 id=&quot;我的博客&quot;&gt;&lt;a href=&quot;#我的博客&quot; class=&quot;headerlink&quot; title=&quot;我的博客&quot;&gt;&lt;/a&gt;我的博客&lt;/h1&gt;&lt;h2 id=&quot;起因&quot;&gt;&lt;a href=&quot;#起因&quot; class=&quot;headerlink&quot; title=&quot;起因&quot;&gt;&lt;/a&gt;起因&lt;/h
-      
-    
-    </summary>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>This is a test</title>
-    <link href="http://fuchunming.top/2017/09/09/This-is-a-test/"/>
-    <id>http://fuchunming.top/2017/09/09/This-is-a-test/</id>
-    <published>2017-09-09T04:30:39.000Z</published>
-    <updated>2017-09-09T04:31:29.745Z</updated>
-    
-    <content type="html"><![CDATA[<h1 id="This-is-a-test"><a href="#This-is-a-test" class="headerlink" title="This is a test"></a>This is a test</h1><h2 id="this"><a href="#this" class="headerlink" title="this"></a>this</h2><h2 id="is"><a href="#is" class="headerlink" title="is"></a>is</h2>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;h1 id=&quot;This-is-a-test&quot;&gt;&lt;a href=&quot;#This-is-a-test&quot; class=&quot;headerlink&quot; title=&quot;This is a test&quot;&gt;&lt;/a&gt;This is a test&lt;/h1&gt;&lt;h2 id=&quot;this&quot;&gt;&lt;a href=&quot;#t
-      
-    
-    </summary>
-    
-    
-      <category term="test" scheme="http://fuchunming.top/tags/test/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>This is my first blog</title>
-    <link href="http://fuchunming.top/2017/09/09/This-is-my-first-blog/"/>
-    <id>http://fuchunming.top/2017/09/09/This-is-my-first-blog/</id>
-    <published>2017-09-09T02:57:13.000Z</published>
-    <updated>2017-09-09T02:57:43.678Z</updated>
-    
-    <content type="html"><![CDATA[<h1 id="这是我的一级标题"><a href="#这是我的一级标题" class="headerlink" title="这是我的一级标题"></a>这是我的一级标题</h1>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;h1 id=&quot;这是我的一级标题&quot;&gt;&lt;a href=&quot;#这是我的一级标题&quot; class=&quot;headerlink&quot; title=&quot;这是我的一级标题&quot;&gt;&lt;/a&gt;这是我的一级标题&lt;/h1&gt;
       
     
     </summary>
