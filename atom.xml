@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://fuchunming.top/"/>
-  <updated>2017-09-09T07:44:52.327Z</updated>
+  <updated>2017-09-09T11:28:26.677Z</updated>
   <id>http://fuchunming.top/</id>
   
   <author>
@@ -17,11 +17,50 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>Test jiami</title>
+    <link href="http://fuchunming.top/2017/09/09/Test-jiami-1/"/>
+    <id>http://fuchunming.top/2017/09/09/Test-jiami-1/</id>
+    <published>2017-09-09T11:28:26.000Z</published>
+    <updated>2017-09-09T11:28:26.677Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Test jiami</title>
+    <link href="http://fuchunming.top/2017/09/09/Test-jiami/"/>
+    <id>http://fuchunming.top/2017/09/09/Test-jiami/</id>
+    <published>2017-09-09T11:25:45.000Z</published>
+    <updated>2017-09-09T11:28:22.499Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="这是一个测试加密效果的文章"><a href="#这是一个测试加密效果的文章" class="headerlink" title="这是一个测试加密效果的文章"></a>这是一个测试加密效果的文章</h1><h2 id="加密"><a href="#加密" class="headerlink" title="加密"></a>加密</h2><h2 id="加密11111"><a href="#加密11111" class="headerlink" title="加密11111"></a>加密11111</h2><p>假假假假假假假假假假假假假佳佳计算机的辣椒酱覅加了放假u是覅哦啊u哦了睡觉哦累计发生开了房间  技术第哦啊好滴哦还哦都好i和第哦啊耐晒黑第哦啊hi大海的哈话是第哦啊好滴哦还得哈呢好滴啊好滴哦还哦等会受打击哦还哦等哈i啊掉色和第哦啊好嗲hi哦都还好第哦啊好 </p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h1 id=&quot;这是一个测试加密效果的文章&quot;&gt;&lt;a href=&quot;#这是一个测试加密效果的文章&quot; class=&quot;headerlink&quot; title=&quot;这是一个测试加密效果的文章&quot;&gt;&lt;/a&gt;这是一个测试加密效果的文章&lt;/h1&gt;&lt;h2 id=&quot;加密&quot;&gt;&lt;a href=&quot;#加密&quot; cla
+      
+    
+    </summary>
+    
+      <category term="加密" scheme="http://fuchunming.top/categories/%E5%8A%A0%E5%AF%86/"/>
+    
+    
+      <category term="加密" scheme="http://fuchunming.top/tags/%E5%8A%A0%E5%AF%86/"/>
+    
+  </entry>
+  
+  <entry>
     <title>关于我的博客</title>
     <link href="http://fuchunming.top/2017/09/09/%E5%85%B3%E4%BA%8E%E6%88%91%E7%9A%84%E5%8D%9A%E5%AE%A2/"/>
     <id>http://fuchunming.top/2017/09/09/关于我的博客/</id>
     <published>2017-09-09T07:39:32.000Z</published>
-    <updated>2017-09-09T07:44:52.327Z</updated>
+    <updated>2017-09-09T07:50:37.174Z</updated>
     
     <content type="html"><![CDATA[<h1 id="我的博客"><a href="#我的博客" class="headerlink" title="我的博客"></a>我的博客</h1><h2 id="起因"><a href="#起因" class="headerlink" title="起因"></a>起因</h2><p>以前一直想拥有一个自己的博客，昨天才开始动手，这个博客花费了我1天的时间，时间仓促，现在只空有其表，其他功能还未完善，后续会陆续完善。<br>现在先做到这吧</p><h2 id="工具"><a href="#工具" class="headerlink" title="工具"></a>工具</h2><ul><li>Git</li><li>node</li><li>hexo </li><li>win10</li><li>github<h2 id="教程"><a href="#教程" class="headerlink" title="教程"></a>教程</h2>主要是参考一些大神的做法，详情请百度</li></ul>]]></content>
     
