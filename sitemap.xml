@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://fuchunming.top/about/index.html</loc>
+    
+    <lastmod>2017-09-09T16:01:17.750Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://fuchunming.top/tags/index.html</loc>
     
     <lastmod>2017-09-09T15:10:40.430Z</lastmod>
@@ -54,13 +61,6 @@
     <loc>http://fuchunming.top/schedule/index.html</loc>
     
     <lastmod>2017-09-09T06:44:10.104Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://fuchunming.top/about/index.html</loc>
-    
-    <lastmod>2017-09-09T06:09:03.570Z</lastmod>
     
   </url>
   
