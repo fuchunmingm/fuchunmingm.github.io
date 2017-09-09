@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  <entry>
+    <title><![CDATA[关于我的博客]]></title>
+    <url>%2F2017%2F09%2F09%2F%E5%85%B3%E4%BA%8E%E6%88%91%E7%9A%84%E5%8D%9A%E5%AE%A2%2F</url>
+    <content type="text"><![CDATA[我的博客起因以前一直想拥有一个自己的博客，昨天才开始动手，这个博客花费了我1天的时间，时间仓促，现在只空有其表，其他功能还未完善，后续会陆续完善。现在先做到这吧 工具 Git node hexo win10 github教程主要是参考一些大神的做法，详情请百度]]></content>
+  </entry>
+  <entry>
+    <title><![CDATA[Start My Blog Trip — Power By Hexo]]></title>
+    <url>%2F2017%2F02%2F10%2F%E5%9F%BA%E4%BA%8EHexo-Github%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2%E6%95%99%E7%A8%8B%2F</url>
+    <content type="text"><![CDATA[#这里开始使用markdown格式输入你的正文。 #mor标签以下的内容要点击“阅读全文”才能看见，#more标签以上的内容为你首页显示文章的摘要部分 dajian]]></content>
+      <categories>
+        <category>Hexo</category>
+        <category>Github</category>
+      </categories>
+      <tags>
+        <tag>Hexo</tag>
+        <tag>Github</tag>
+      </tags>
+  </entry>
+</search>
