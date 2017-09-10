@@ -12,6 +12,17 @@
       </tags>
   </entry>
   <entry>
+    <title><![CDATA[MarkDown练习]]></title>
+    <url>%2F2017%2F09%2F10%2FMarkDown%E7%BB%83%E4%B9%A0%2F</url>
+    <content type="text"><![CDATA[这是一级标题这是二级标题列表水果： 橘子 香蕉 桃子 李子 学习： 数学 语文 英语 插入图片女神照片 我的博客 引用 机会总是留给又准备的人一盏灯， 一片昏黄； 一简书， 一杯淡茶。 守着那一份淡定， 品读属于自己的寂寞。 保持淡定， 才能欣赏到最美丽的风景！ 保持淡定， 人生从此不再寂寞。 表格 dog cat bear 90 80 70 50 40 30 60 50 40 粗体和斜体这是粗体 粗体这是斜体 斜体]]></content>
+      <categories>
+        <category>markdown</category>
+      </categories>
+      <tags>
+        <tag>Markdown</tag>
+      </tags>
+  </entry>
+  <entry>
     <title><![CDATA[关于我的博客]]></title>
     <url>%2F2017%2F09%2F09%2F%E5%85%B3%E4%BA%8E%E6%88%91%E7%9A%84%E5%8D%9A%E5%AE%A2%2F</url>
     <content type="text"><![CDATA[我的博客起因以前一直想拥有一个自己的博客，昨天才开始动手，这个博客花费了我1天的时间，时间仓促，现在只空有其表，其他功能还未完善，后续会陆续完善。现在先做到这吧 工具 Git node hexo win10 github教程主要是参考一些大神的做法，详情请百度]]></content>
