@@ -3,7 +3,7 @@
   <entry>
     <title><![CDATA[Markdown用法]]></title>
     <url>%2F2017%2F09%2F10%2FMarkdown%E7%94%A8%E6%B3%95%2F</url>
-    <content type="text"><![CDATA[这是一些常用的Markdown语法 分级标题代码: 斜体或斜体粗体加粗斜体删除线]]></content>
+    <content type="text"><![CDATA[这是一些常用的Markdown语法 分级标题代码: 1.# 一级标题2.## 二级标题]]></content>
       <categories>
         <category>Markdown</category>
       </categories>
