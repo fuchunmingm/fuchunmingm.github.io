@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://www.fuchunming.top/"/>
-  <updated>2017-09-10T04:39:47.233Z</updated>
+  <updated>2017-09-10T04:50:40.107Z</updated>
   <id>http://www.fuchunming.top/</id>
   
   <author>
@@ -21,9 +21,9 @@
     <link href="http://www.fuchunming.top/2017/09/10/Markdown%E7%94%A8%E6%B3%95/"/>
     <id>http://www.fuchunming.top/2017/09/10/Markdown用法/</id>
     <published>2017-09-10T15:49:28.000Z</published>
-    <updated>2017-09-10T04:39:47.233Z</updated>
+    <updated>2017-09-10T04:50:40.107Z</updated>
     
-    <content type="html"><![CDATA[<p>这是一些常用的Markdown语法</p><a id="more"></a><h1 id="分级标题"><a href="#分级标题" class="headerlink" title="分级标题"></a>分级标题</h1><p>语法格式:</p><blockquote><p>1.#      一级标题<br>2.##     二级标题<br>3.###    三级标题<br>4.####   四级标题<br>5.#####  五级标题<br>6.###### 六级标题<br>Markdown支持6级标题，这里是最简单也是使用最多的一种格式，掌握一种就好</p></blockquote><h1 id="超链接"><a href="#超链接" class="headerlink" title="超链接"></a>超链接</h1><p>语法格式：</p><blockquote><p>1.<a href="链接地址" title="链接标题">链接文字</a></p></blockquote>]]></content>
+    <content type="html"><![CDATA[<p>这是一些常用的Markdown语法</p><a id="more"></a><h1 id="分级标题"><a href="#分级标题" class="headerlink" title="分级标题"></a>分级标题</h1><p>语法格式:</p><blockquote><p>1.#      一级标题<br>2.##     二级标题<br>3.###    三级标题<br>4.####   四级标题<br>5.#####  五级标题<br>6.###### 六级标题<br>Markdown支持6级标题，这里是最简单也是使用最多的一种格式，掌握一种就好</p></blockquote><h1 id="超链接"><a href="#超链接" class="headerlink" title="超链接"></a>超链接</h1><p>语法格式：</p><h1 id="参考"><a href="#参考" class="headerlink" title="参考"></a>参考</h1><p><a href="http://blog.leanote.com/post/freewalk/Markdown-%E8%AF%AD%E6%B3%95%E6%89%8B%E5%86%8C#title-2" target="_blank" rel="external">Markdown语法手册（完整整理版)</a></p>]]></content>
     
     <summary type="html">
     
