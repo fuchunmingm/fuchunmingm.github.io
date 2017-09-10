@@ -8,7 +8,7 @@
   <entry>
     <title><![CDATA[Start My Blog Trip — Power By Hexo]]></title>
     <url>%2F2017%2F02%2F10%2F%E5%9F%BA%E4%BA%8EHexo-Github%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2%E6%95%99%E7%A8%8B%2F</url>
-    <content type="text"><![CDATA[#这里开始使用markdown格式输入你的正文。 #mor标签以下的内容要点击“阅读全文”才能看见，#more标签以上的内容为你首页显示文章的摘要部分 dajian![]（raw.githubusercontent.com/smshen/MarkdownPhotos/master/Res/test.jpg）]]></content>
+    <content type="text"><![CDATA[#这里开始使用markdown格式输入你的正文。 #mor标签以下的内容要点击“阅读全文”才能看见，#more标签以上的内容为你首页显示文章的摘要部分 dajian![]（http://ow1lyg2q1.bkt.clouddn.com/7155905_orig.jpg）]]></content>
       <categories>
         <category>Hexo</category>
         <category>Github</category>
