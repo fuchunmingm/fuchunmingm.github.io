@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://www.fuchunming.top/"/>
-  <updated>2017-09-10T05:27:32.069Z</updated>
+  <updated>2017-09-11T00:50:24.763Z</updated>
   <id>http://www.fuchunming.top/</id>
   
   <author>
@@ -21,9 +21,9 @@
     <link href="http://www.fuchunming.top/2017/09/10/Markdown%E7%94%A8%E6%B3%95/"/>
     <id>http://www.fuchunming.top/2017/09/10/Markdown用法/</id>
     <published>2017-09-10T15:49:28.000Z</published>
-    <updated>2017-09-10T05:27:32.069Z</updated>
+    <updated>2017-09-11T00:50:24.763Z</updated>
     
-    <content type="html"><![CDATA[<p>这是一些常用的Markdown语法</p><a id="more"></a><h1 id="分级标题"><a href="#分级标题" class="headerlink" title="分级标题"></a>分级标题</h1><p>语法格式:</p><blockquote><p>1.#      一级标题<br>2.##     二级标题<br>3.###    三级标题<br>4.####   四级标题<br>5.#####  五级标题<br>6.###### 六级标题<br>Markdown支持6级标题，这里是最简单也是使用最多的一种格式，掌握一种就好</p></blockquote><h1 id="超链接"><a href="#超链接" class="headerlink" title="超链接"></a>超链接</h1><p>语法格式：</p><h1 id="参考"><a href="#参考" class="headerlink" title="参考"></a>参考</h1><p><a href="http://blog.leanote.com/post/freewalk/Markdown-%E8%AF%AD%E6%B3%95%E6%89%8B%E5%86%8C#title-2" target="_blank" rel="external">Markdown语法手册（完整整理版)</a><br><a href="http://www.jianshu.com/p/q81RER#" target="_blank" rel="external">简书Markdown用法</a></p><figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div></pre></td><td class="code"><pre><div class="line">fuc(c,j)&#123;</div><div class="line">  c++</div><div class="line">&#125;</div></pre></td></tr></table></figure>]]></content>
+    <content type="html"><![CDATA[<p>这是一些常用的Markdown语法</p><a id="more"></a><h1 id="常用的功能"><a href="#常用的功能" class="headerlink" title="常用的功能"></a>常用的功能</h1><h2 id="标题"><a href="#标题" class="headerlink" title="标题"></a>标题</h2><h2 id="列表"><a href="#列表" class="headerlink" title="列表"></a>列表</h2><h2 id="链接和图片"><a href="#链接和图片" class="headerlink" title="链接和图片"></a>链接和图片</h2><h2 id="引用"><a href="#引用" class="headerlink" title="引用"></a>引用</h2><h2 id="粗体和斜体"><a href="#粗体和斜体" class="headerlink" title="粗体和斜体"></a>粗体和斜体</h2><h2 id="代码引用"><a href="#代码引用" class="headerlink" title="代码引用"></a>代码引用</h2><h2 id="表格"><a href="#表格" class="headerlink" title="表格"></a>表格</h2><h1 id="参考"><a href="#参考" class="headerlink" title="参考"></a>参考</h1><p><a href="http://www.jianshu.com/p/q81RER#" target="_blank" rel="external">简书Markdown用法</a>强烈推荐，主要是一些常用的Markdown用法<br><a href="http://blog.leanote.com/post/freewalk/Markdown-%E8%AF%AD%E6%B3%95%E6%89%8B%E5%86%8C#title-2" target="_blank" rel="external">Markdown语法手册（完整整理版)</a></p>]]></content>
     
     <summary type="html">
     
@@ -43,21 +43,17 @@
     <link href="http://www.fuchunming.top/2017/09/10/MarkDown%E7%BB%83%E4%B9%A0/"/>
     <id>http://www.fuchunming.top/2017/09/10/MarkDown练习/</id>
     <published>2017-09-10T09:29:29.000Z</published>
-    <updated>2017-09-10T10:10:25.290Z</updated>
+    <updated>2017-09-11T00:40:36.410Z</updated>
     
-    <content type="html"><![CDATA[<a id="more"></a><h1 id="这是一级标题"><a href="#这是一级标题" class="headerlink" title="这是一级标题"></a>这是一级标题</h1><h2 id="这是二级标题"><a href="#这是二级标题" class="headerlink" title="这是二级标题"></a>这是二级标题</h2><h2 id="列表"><a href="#列表" class="headerlink" title="列表"></a>列表</h2><p>水果：</p><ul><li>橘子    </li><li>香蕉</li><li>桃子</li><li>李子</li></ul><p>学习：</p><ol><li>数学</li><li>语文</li><li>英语</li></ol><h2 id="插入图片"><a href="#插入图片" class="headerlink" title="插入图片"></a>插入图片</h2><p>女神照片<br><img src="/picture/nvshen.jpg" alt="nvshen"><br><img src="/picture/avatar.png" alt=""></p><p><a href="http://www.fuchunming.top">我的博客</a></p><h2 id="引用"><a href="#引用" class="headerlink" title="引用"></a>引用</h2><blockquote><p>机会总是留给又准备的人<br>一盏灯， 一片昏黄； 一简书， 一杯淡茶。 守着那一份淡定， 品读属于自己的寂寞。 保持淡定，才能欣赏到最美丽的风景！ 保持淡定， 人生从此不再寂寞。</p></blockquote><h2 id="表格"><a href="#表格" class="headerlink" title="表格"></a>表格</h2><table><thead><tr><th>dog</th><th>cat</th><th>bear   </th></tr></thead><tbody><tr><td>90</td><td>80</td><td>70</td></tr><tr><td>50</td><td>40</td><td>30</td></tr><tr><td>60</td><td>50</td><td>40</td></tr></tbody></table><h2 id="粗体和斜体"><a href="#粗体和斜体" class="headerlink" title="粗体和斜体"></a>粗体和斜体</h2><p>这是粗体 <strong>粗体</strong><br>这是斜体  <em>斜体</em></p>]]></content>
+    <content type="html"><![CDATA[<p>这篇博客的目的在于练习Markdown的相关语法<br><a id="more"></a></p><h1 id="这是一级标题"><a href="#这是一级标题" class="headerlink" title="这是一级标题"></a>这是一级标题</h1><h2 id="这是二级标题"><a href="#这是二级标题" class="headerlink" title="这是二级标题"></a>这是二级标题</h2><h2 id="列表"><a href="#列表" class="headerlink" title="列表"></a>列表</h2><p>水果：</p><ul><li>橘子    </li><li>香蕉</li><li>桃子</li><li>李子</li></ul><p>学习：</p><ol><li>数学</li><li>语文</li><li>英语</li></ol><h2 id="插入图片"><a href="#插入图片" class="headerlink" title="插入图片"></a>插入图片</h2><p>女神照片<br><img src="/picture/nvshen.jpg" alt="nvshen"><br><img src="/picture/avatar.png" alt=""></p><p><a href="http://www.fuchunming.top">我的博客</a></p><h2 id="引用"><a href="#引用" class="headerlink" title="引用"></a>引用</h2><blockquote><p>机会总是留给又准备的人<br>一盏灯， 一片昏黄； 一简书， 一杯淡茶。 守着那一份淡定， 品读属于自己的寂寞。 保持淡定，才能欣赏到最美丽的风景！ 保持淡定， 人生从此不再寂寞。</p></blockquote><h2 id="表格"><a href="#表格" class="headerlink" title="表格"></a>表格</h2><table><thead><tr><th>dog</th><th>cat</th><th>bear   </th></tr></thead><tbody><tr><td>90</td><td>80</td><td>70</td></tr><tr><td>50</td><td>40</td><td>30</td></tr><tr><td>60</td><td>50</td><td>40</td></tr></tbody></table><h2 id="粗体和斜体"><a href="#粗体和斜体" class="headerlink" title="粗体和斜体"></a>粗体和斜体</h2><p>这是粗体 <strong>粗体</strong><br>这是斜体  <em>斜体</em></p>]]></content>
     
     <summary type="html">
     
-      
-      
-        &lt;a id=&quot;more&quot;&gt;&lt;/a&gt;
-&lt;h1 id=&quot;这是一级标题&quot;&gt;&lt;a href=&quot;#这是一级标题&quot; class=&quot;headerlink&quot; title=&quot;这是一级标题&quot;&gt;&lt;/a&gt;这是一级标题&lt;/h1&gt;&lt;h2 id=&quot;这是二级标题&quot;&gt;&lt;a href=&quot;#这是二级标题&quot; class
-      
+      &lt;p&gt;这篇博客的目的在于练习Markdown的相关语法&lt;br&gt;
     
     </summary>
     
-      <category term="markdown" scheme="http://www.fuchunming.top/categories/markdown/"/>
+      <category term="练习" scheme="http://www.fuchunming.top/categories/%E7%BB%83%E4%B9%A0/"/>
     
     
       <category term="Markdown" scheme="http://www.fuchunming.top/tags/Markdown/"/>
@@ -69,16 +65,24 @@
     <link href="http://www.fuchunming.top/2017/09/09/%E5%85%B3%E4%BA%8E%E6%88%91%E7%9A%84%E5%8D%9A%E5%AE%A2/"/>
     <id>http://www.fuchunming.top/2017/09/09/关于我的博客/</id>
     <published>2017-09-09T07:39:32.000Z</published>
-    <updated>2017-09-10T05:19:25.330Z</updated>
+    <updated>2017-09-11T00:44:54.109Z</updated>
     
-    <content type="html"><![CDATA[<h1 id="我的博客"><a href="#我的博客" class="headerlink" title="我的博客"></a>我的博客</h1><h2 id="起因"><a href="#起因" class="headerlink" title="起因"></a>起因</h2><p>以前一直想拥有一个自己的博客，昨天才开始动手，这个博客花费了我1天的时间，时间仓促，现在只空有其表，其他功能还未完善，后续会陆续完善。<br>现在先做到这吧<br><a id="more"></a></p><h2 id="工具"><a href="#工具" class="headerlink" title="工具"></a>工具</h2><ul><li>Git</li><li>node</li><li>hexo</li><li>win10</li><li>github<h2 id="教程"><a href="#教程" class="headerlink" title="教程"></a>教程</h2>主要是参考一些大神的做法，详情请百度</li></ul><p><img src="http://upload-images.jianshu.io/upload_images/259-7424a9a21a2cb81b.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt=""></p>]]></content>
+    <content type="html"><![CDATA[<h1 id="我的博客"><a href="#我的博客" class="headerlink" title="我的博客"></a>我的博客</h1><h2 id="起因"><a href="#起因" class="headerlink" title="起因"></a>起因</h2><p>以前一直想拥有一个自己的博客，昨天才开始动手，这个博客花费了我2天的时间，时间仓促，现在<br>其他功能已经完善，没有添加评论系统。本阶段只做到现在这种地步，以后将陆续完善相关的功能。</p><a id="more"></a><h2 id="步骤"><a href="#步骤" class="headerlink" title="步骤"></a>步骤</h2><ol><li>搭建环境准备（包括node.js和git环境，gitHub账户的配置）</li><li>安装Hexo</li><li>配置Hexo</li><li>怎样将Hexo与github page 联系起来</li><li>怎样发布文章</li><li>主题 推荐</li><li>主题Net的简单配置</li><li>添加sitemap和feed插件</li><li>添加404 公益页面<br>详情请参考：<br><a href="http://blog.csdn.net/gdutxiaoxu/article/details/53576018" target="_blank" rel="external">手把手教你用Hexo+Github 搭建属于自己的博客</a><br><a href="http://www.jianshu.com/p/189fd945f38f" target="_blank" rel="external">搭建个人博客-hexo+github详细完整步骤</a><br><a href="https://segmentfault.com/a/1190000008738089" target="_blank" rel="external">2017年最新基于hexo搭建个人免费博客——从零开始</a><br><a href="http://theme-next.iissnan.com/getting-started.html" target="_blank" rel="external">Next使用文档</a><h2 id="个性化"><a href="#个性化" class="headerlink" title="个性化"></a>个性化</h2><a href="http://www.dingxuewen.com/2017/03/01/Hexo%E6%90%AD%E5%BB%BA%E5%8D%9A%E5%AE%A2%E7%9A%84%E4%B8%AA%E6%80%A7%E5%8C%96%E8%AE%BE%E7%BD%AE%E4%B8%80/" target="_blank" rel="external">Hexo搭建博客的个性化设置一</a><br><a href="http://blog.csdn.net/qq_33699981/article/details/72716951" target="_blank" rel="external"> hexo的next主题个性化教程：打造炫酷网站 </a><h2 id="总结"><a href="#总结" class="headerlink" title="总结"></a>总结</h2>没有详细写，是因为网上的信息已经很多很详细了，按照这些步骤，你可以很容易的吧环境什么的搭<br>建好。没有必要重复造轮子。</li></ol><p>感谢博主的无私奉献。</p>]]></content>
     
     <summary type="html">
     
-      &lt;h1 id=&quot;我的博客&quot;&gt;&lt;a href=&quot;#我的博客&quot; class=&quot;headerlink&quot; title=&quot;我的博客&quot;&gt;&lt;/a&gt;我的博客&lt;/h1&gt;&lt;h2 id=&quot;起因&quot;&gt;&lt;a href=&quot;#起因&quot; class=&quot;headerlink&quot; title=&quot;起因&quot;&gt;&lt;/a&gt;起因&lt;/h2&gt;&lt;p&gt;以前一直想拥有一个自己的博客，昨天才开始动手，这个博客花费了我1天的时间，时间仓促，现在只空有其表，其他功能还未完善，后续会陆续完善。&lt;br&gt;现在先做到这吧&lt;br&gt;
+      &lt;h1 id=&quot;我的博客&quot;&gt;&lt;a href=&quot;#我的博客&quot; class=&quot;headerlink&quot; title=&quot;我的博客&quot;&gt;&lt;/a&gt;我的博客&lt;/h1&gt;&lt;h2 id=&quot;起因&quot;&gt;&lt;a href=&quot;#起因&quot; class=&quot;headerlink&quot; title=&quot;起因&quot;&gt;&lt;/a&gt;起因&lt;/h2&gt;&lt;p&gt;以前一直想拥有一个自己的博客，昨天才开始动手，这个博客花费了我2天的时间，时间仓促，现在&lt;br&gt;其他功能已经完善，没有添加评论系统。本阶段只做到现在这种地步，以后将陆续完善相关的功能。&lt;/p&gt;
     
     </summary>
     
+      <category term="学习" scheme="http://www.fuchunming.top/categories/%E5%AD%A6%E4%B9%A0/"/>
+    
+    
+      <category term="Markdown" scheme="http://www.fuchunming.top/tags/Markdown/"/>
+    
+      <category term="Github" scheme="http://www.fuchunming.top/tags/Github/"/>
+    
+      <category term="Hexo" scheme="http://www.fuchunming.top/tags/Hexo/"/>
     
   </entry>
   

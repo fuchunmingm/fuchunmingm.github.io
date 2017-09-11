@@ -3,7 +3,7 @@
   <entry>
     <title><![CDATA[Markdown用法]]></title>
     <url>%2F2017%2F09%2F10%2FMarkdown%E7%94%A8%E6%B3%95%2F</url>
-    <content type="text"><![CDATA[这是一些常用的Markdown语法 分级标题语法格式: 1.# 一级标题2.## 二级标题3.### 三级标题4.#### 四级标题5.##### 五级标题6.###### 六级标题Markdown支持6级标题，这里是最简单也是使用最多的一种格式，掌握一种就好 超链接语法格式： 参考Markdown语法手册（完整整理版)简书Markdown用法 123fuc(c,j)&#123; c++&#125;]]></content>
+    <content type="text"><![CDATA[这是一些常用的Markdown语法 常用的功能标题列表链接和图片引用粗体和斜体代码引用表格参考简书Markdown用法强烈推荐，主要是一些常用的Markdown用法Markdown语法手册（完整整理版)]]></content>
       <categories>
         <category>Markdown</category>
       </categories>
@@ -14,9 +14,9 @@
   <entry>
     <title><![CDATA[MarkDown练习]]></title>
     <url>%2F2017%2F09%2F10%2FMarkDown%E7%BB%83%E4%B9%A0%2F</url>
-    <content type="text"><![CDATA[这是一级标题这是二级标题列表水果： 橘子 香蕉 桃子 李子 学习： 数学 语文 英语 插入图片女神照片 我的博客 引用 机会总是留给又准备的人一盏灯， 一片昏黄； 一简书， 一杯淡茶。 守着那一份淡定， 品读属于自己的寂寞。 保持淡定，才能欣赏到最美丽的风景！ 保持淡定， 人生从此不再寂寞。 表格 dog cat bear 90 80 70 50 40 30 60 50 40 粗体和斜体这是粗体 粗体这是斜体 斜体]]></content>
+    <content type="text"><![CDATA[这篇博客的目的在于练习Markdown的相关语法 这是一级标题这是二级标题列表水果： 橘子 香蕉 桃子 李子 学习： 数学 语文 英语 插入图片女神照片 我的博客 引用 机会总是留给又准备的人一盏灯， 一片昏黄； 一简书， 一杯淡茶。 守着那一份淡定， 品读属于自己的寂寞。 保持淡定，才能欣赏到最美丽的风景！ 保持淡定， 人生从此不再寂寞。 表格 dog cat bear 90 80 70 50 40 30 60 50 40 粗体和斜体这是粗体 粗体这是斜体 斜体]]></content>
       <categories>
-        <category>markdown</category>
+        <category>练习</category>
       </categories>
       <tags>
         <tag>Markdown</tag>
@@ -25,6 +25,14 @@
   <entry>
     <title><![CDATA[关于我的博客]]></title>
     <url>%2F2017%2F09%2F09%2F%E5%85%B3%E4%BA%8E%E6%88%91%E7%9A%84%E5%8D%9A%E5%AE%A2%2F</url>
-    <content type="text"><![CDATA[我的博客起因以前一直想拥有一个自己的博客，昨天才开始动手，这个博客花费了我1天的时间，时间仓促，现在只空有其表，其他功能还未完善，后续会陆续完善。现在先做到这吧 工具 Git node hexo win10 github教程主要是参考一些大神的做法，详情请百度]]></content>
+    <content type="text"><![CDATA[我的博客起因以前一直想拥有一个自己的博客，昨天才开始动手，这个博客花费了我2天的时间，时间仓促，现在其他功能已经完善，没有添加评论系统。本阶段只做到现在这种地步，以后将陆续完善相关的功能。 步骤 搭建环境准备（包括node.js和git环境，gitHub账户的配置） 安装Hexo 配置Hexo 怎样将Hexo与github page 联系起来 怎样发布文章 主题 推荐 主题Net的简单配置 添加sitemap和feed插件 添加404 公益页面详情请参考：手把手教你用Hexo+Github 搭建属于自己的博客搭建个人博客-hexo+github详细完整步骤2017年最新基于hexo搭建个人免费博客——从零开始Next使用文档个性化Hexo搭建博客的个性化设置一 hexo的next主题个性化教程：打造炫酷网站 总结没有详细写，是因为网上的信息已经很多很详细了，按照这些步骤，你可以很容易的吧环境什么的搭建好。没有必要重复造轮子。 感谢博主的无私奉献。]]></content>
+      <categories>
+        <category>学习</category>
+      </categories>
+      <tags>
+        <tag>Markdown</tag>
+        <tag>Github</tag>
+        <tag>Hexo</tag>
+      </tags>
   </entry>
 </search>
