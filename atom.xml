@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://www.fuchunming.top/"/>
-  <updated>2017-09-12T03:34:08.071Z</updated>
+  <updated>2017-09-14T11:43:29.360Z</updated>
   <id>http://www.fuchunming.top/</id>
   
   <author>
@@ -15,6 +15,32 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>The Zen of Python</title>
+    <link href="http://www.fuchunming.top/2017/09/14/The-Zen-of-Python/"/>
+    <id>http://www.fuchunming.top/2017/09/14/The-Zen-of-Python/</id>
+    <published>2017-09-14T11:41:34.000Z</published>
+    <updated>2017-09-14T11:43:29.360Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="The-Zen-of-Python"><a href="#The-Zen-of-Python" class="headerlink" title="The Zen of Python"></a>The Zen of Python</h1><blockquote><p>The Zen of Python, by Tim Peter<br>Beautiful is better than ugly.<br>Explicit is better than implicit.<br>Simple is better than complex.<br>Complex is better than complicated.<br>Flat is better than nested.<br>Sparse is better than dense.<br>Readability counts.<br>Special cases aren’t special enough to break the rules.<br>Although practicality beats purity.<br>Errors should never pass silently.<br>Unless explicitly silenced.<br>In the face of ambiguity, refuse the temptation to guess.<br>There should be one– and preferably only one –obvious way to do it.<br>Although that way may not be obvious at first unless you’re Dutch.<br>Now is better than never.<br>Although never is often better than ‘right’ now.<br>If the implementation is hard to explain, it’s a bad idea.<br>If the implementation is easy to explain, it may be a good idea.<br>Namespaces are one honking great idea – let’s do more of those!</p></blockquote>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h1 id=&quot;The-Zen-of-Python&quot;&gt;&lt;a href=&quot;#The-Zen-of-Python&quot; class=&quot;headerlink&quot; title=&quot;The Zen of Python&quot;&gt;&lt;/a&gt;The Zen of Python&lt;/h1&gt;&lt;blockquote&gt;
+
+      
+    
+    </summary>
+    
+      <category term="Python" scheme="http://www.fuchunming.top/categories/Python/"/>
+    
+    
+      <category term="Python" scheme="http://www.fuchunming.top/tags/Python/"/>
+    
+  </entry>
   
   <entry>
     <title>古人名和字的关系</title>
