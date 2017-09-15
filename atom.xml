@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://www.fuchunming.top/"/>
-  <updated>2017-09-14T11:46:25.844Z</updated>
+  <updated>2017-09-15T10:34:11.749Z</updated>
   <id>http://www.fuchunming.top/</id>
   
   <author>
@@ -15,6 +15,34 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>《那些年啊，那些事——一个程序员的奋斗史》——01</title>
+    <link href="http://www.fuchunming.top/2017/09/15/%E3%80%8A%E9%82%A3%E4%BA%9B%E5%B9%B4%E5%95%8A%EF%BC%8C%E9%82%A3%E4%BA%9B%E4%BA%8B%E2%80%94%E2%80%94%E4%B8%80%E4%B8%AA%E7%A8%8B%E5%BA%8F%E5%91%98%E7%9A%84%E5%A5%8B%E6%96%97%E5%8F%B2%E3%80%8B%E2%80%94%E2%80%9401/"/>
+    <id>http://www.fuchunming.top/2017/09/15/《那些年啊，那些事——一个程序员的奋斗史》——01/</id>
+    <published>2017-09-15T10:32:45.000Z</published>
+    <updated>2017-09-15T10:34:11.749Z</updated>
+    
+    <content type="html"><![CDATA[<p>lalal<br>ceshi </p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;lalal&lt;br&gt;ceshi &lt;/p&gt;
+
+      
+    
+    </summary>
+    
+      <category term="程序员" scheme="http://www.fuchunming.top/categories/%E7%A8%8B%E5%BA%8F%E5%91%98/"/>
+    
+      <category term="book" scheme="http://www.fuchunming.top/categories/%E7%A8%8B%E5%BA%8F%E5%91%98/book/"/>
+    
+    
+      <category term="澄秀园" scheme="http://www.fuchunming.top/tags/%E6%BE%84%E7%A7%80%E5%9B%AD/"/>
+    
+  </entry>
   
   <entry>
     <title>The Zen of Python</title>

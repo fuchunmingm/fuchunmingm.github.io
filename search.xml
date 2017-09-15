@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title><![CDATA[《那些年啊，那些事——一个程序员的奋斗史》——01]]></title>
+    <url>%2F2017%2F09%2F15%2F%E3%80%8A%E9%82%A3%E4%BA%9B%E5%B9%B4%E5%95%8A%EF%BC%8C%E9%82%A3%E4%BA%9B%E4%BA%8B%E2%80%94%E2%80%94%E4%B8%80%E4%B8%AA%E7%A8%8B%E5%BA%8F%E5%91%98%E7%9A%84%E5%A5%8B%E6%96%97%E5%8F%B2%E3%80%8B%E2%80%94%E2%80%9401%2F</url>
+    <content type="text"><![CDATA[lalalceshi]]></content>
+      <categories>
+        <category>程序员</category>
+        <category>book</category>
+      </categories>
+      <tags>
+        <tag>澄秀园</tag>
+      </tags>
+  </entry>
+  <entry>
     <title><![CDATA[The Zen of Python]]></title>
     <url>%2F2017%2F09%2F14%2FThe-Zen-of-Python%2F</url>
     <content type="text"><![CDATA[The Zen of Python Beautiful is better than ugly.Explicit is better than implicit.Simple is better than complex.Complex is better than complicated.Flat is better than nested.Sparse is better than dense.Readability counts.Special cases aren’t special enough to break the rules.Although practicality beats purity.Errors should never pass silently.Unless explicitly silenced.In the face of ambiguity, refuse the temptation to guess.There should be one– and preferably only one –obvious way to do it.Although that way may not be obvious at first unless you’re Dutch.Now is better than never.Although never is often better than ‘right’ now.If the implementation is hard to explain, it’s a bad idea.If the implementation is easy to explain, it may be a good idea.Namespaces are one honking great idea – let’s do more of those!]]></content>
